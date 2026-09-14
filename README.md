@@ -1,2 +1,2 @@
 # eth-tools
-tools and scripts by ethan
+tools and scripts
